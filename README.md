@@ -7,18 +7,13 @@ Bootstrapped with [Create React App](https://github.com/facebook/create-react-ap
 Install all node module dependencies before running localy:
 ### `npm install`
 
+If npm install doesn't work, try to delete ### `package-lock.json` and ### `node modules` if present in the directory
+
 Then in the project directory, you can run:
 ### `npm start`
 
-## Routes
-
-Dashboard Route: http://localhost:3000 
-Login Route: http://localhost:3000/login
-
 ## credentials: 
-usename: admin
-password: 1234
+usename: caldozamarkse@gmail.com
+password: secret
 
-Runs the app in the development mode.
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 

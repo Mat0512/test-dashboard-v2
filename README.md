@@ -1,6 +1,6 @@
 Bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 
-## [Vercel Link](https://test-dashboard-gamma.vercel.app)
+## [Vercel Link](https://test-dashboard-v2.vercel.app/login)
 
 ## Run in your local machine
 

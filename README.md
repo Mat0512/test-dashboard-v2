@@ -7,7 +7,7 @@ Bootstrapped with [Create React App](https://github.com/facebook/create-react-ap
 Install all node module dependencies before running localy:
 ### `npm install`
 
-If npm install doesn't work, try to delete ### `package-lock.json` and ### `node modules` if present in the directory
+If npm install doesn't work, try to delete package-lock.json and node modules if present in the directory
 
 Then in the project directory, you can run:
 ### `npm start`

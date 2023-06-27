@@ -1,14 +1,11 @@
 Bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 
-<<<<<<< HEAD
 
 ## [Vercel Link](https://test-dashboard-gamma.vercel.app)
 
-=======
 
 ## [Vercel Link](https://test-dashboard-v2.vercel.app/login)
 
-> > > > > > > origin/main
 
 ## Run in your local machine
 
@@ -16,7 +13,6 @@ Install all node module dependencies before running localy:
 
 ### `npm install`
 
-<<<<<<< HEAD
 Then in the project directory, you can run:
 
 ### `npm start`

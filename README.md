@@ -37,8 +37,5 @@ Then in the project directory, you can run:
 ### `npm start`
 
 ## credentials:
-
 usename: caldozamarkse@gmail.com
 password: secret
-
-> > > > > > > origin/main

@@ -239,7 +239,7 @@ const Reports = () => {
                             onClick={() => {
                                 exportPdfChart(
                                     "monthly-chart-id",
-                                    "Monthly Reports",
+                                    `Monthly Reports of Fire Incident in Antipolo City (${getDateTime()})`,
                                     adminData.fullName
                                 );
                             }}

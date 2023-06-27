@@ -40,39 +40,6 @@ const Login = () => {
         logInAuth(email, pass)
             .then((userCreds) => {
                 navigate("/");
-
-                // console.log("user id: ", userCreds.user.uid);
-                // const userRef = ref(db, "admin" + userCreds.user.uid);
-
-                // get(userRef)
-                //     .then((snapshot) => {
-                //         const user = snapshot.val();
-                //         console.log("user found: ", user)
-                //         let foundUser = null;
-                //         //find user by ename1 or ename1 props
-                //         // for (let userId in users) {
-                //         //     if (users[userId].email === email) {
-                //         //         foundUser = users[userId];
-                //         //         break;
-                //         //     }
-                //         // }
-                //         // //verifying user
-                //         // if (!foundUser) {
-                //         //     logOutAuth();
-                //         //     setErr("User does not exist");
-                //         //     return;
-                //         // }
-                //         // const validUser = foundUser.password === pass;
-                //         // if (!validUser) {
-                //         //     logOutAuth();
-                //         //     setErr("Wrong Credentials");
-                //         //     return;
-                //         // }
-                //         navigate("/");
-                //     })
-                //     .catch((err) => {
-                //         console.log(err);
-                //     });
             })
             .catch((e) => {
                 console.log("error: ", e);
